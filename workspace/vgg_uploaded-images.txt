@@ -1,0 +1,29 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = vgg 
+ dogfile = dognames.txt
+
+Printing all key-value pairs in dictionary results_dic:
+
+Pet Image Label Dictionary has 1 key-value pairs.
+Below are 1 of them:
+ 1 key:                Boxer_02426.jpg  label:                      boxer
+
+     MATCH:
+
+               Boxer_02426.jpg: 
+Real:                      boxer   Classifier:                          boxer
+
+ NOT A MATCH:
+
+# Total Images 1 # Matches: 1 # NOT Matches: 0
+
+     MATCH:
+
+               Boxer_02426.jpg: 
+Real:                      boxer   Classifier:                          boxer  
+PetLabelDog: 1  ClassLabelDog: 1
+
+ NOT A MATCH:
+
+# Total Images 1 # Matches: 1 # NOT Matches: 0
